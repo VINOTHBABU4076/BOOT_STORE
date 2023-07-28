@@ -1,0 +1,36 @@
+*{
+    margin: 0 ;
+    background-color: rgb(132, 160, 156);
+    font-family: Arial;
+}
+#form{
+    width: 100%;
+    color: white;
+    margin-top: 200px;
+    padding: 50px;
+}
+h2{
+    margin-left: 40%;
+    margin-bottom: 20px;
+
+}
+.input-grp{
+    margin-left: 40%;
+
+}
+input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+button{
+    margin-left: 40%;
+    margin-top: 20px;
+    color: red;
+    border: 1px solid ;
+    border-radius: 3px;
+}
+button:hover{
+    cursor: pointer;
+}
