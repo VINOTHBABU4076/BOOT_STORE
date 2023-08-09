@@ -9,7 +9,7 @@ import Keys from './Keys';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Keys />
+    <App />
   </React.StrictMode>
 );
 
